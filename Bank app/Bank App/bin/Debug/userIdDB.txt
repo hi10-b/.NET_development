@@ -1,0 +1,5 @@
+admin,admin
+normaluser,user
+Adam,hello
+George,yessir
+hacker,nohack
