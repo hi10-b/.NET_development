@@ -1,4 +1,4 @@
-### C# console application
+### C# console application to examine the .Net framework
 A simple bank management application coded in c#
 
 ### Application Development with .NET
